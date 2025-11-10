@@ -4,4 +4,8 @@ public class Test1
     {
         System.out.println("The inputted number is " + x);
     }    
+    public static void func2(int x)
+    {
+        System.out.println("The inputted number is ");
+    }
 }
